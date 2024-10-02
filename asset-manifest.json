@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MorseMaster/static/css/main.d86eb04e.css",
+    "main.js": "/MorseMaster/static/js/main.943444e9.js",
+    "static/js/453.819cb919.chunk.js": "/MorseMaster/static/js/453.819cb919.chunk.js",
+    "index.html": "/MorseMaster/index.html",
+    "main.d86eb04e.css.map": "/MorseMaster/static/css/main.d86eb04e.css.map",
+    "main.943444e9.js.map": "/MorseMaster/static/js/main.943444e9.js.map",
+    "453.819cb919.chunk.js.map": "/MorseMaster/static/js/453.819cb919.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d86eb04e.css",
+    "static/js/main.943444e9.js"
+  ]
+}
